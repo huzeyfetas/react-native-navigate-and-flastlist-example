@@ -193,7 +193,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     borderColor: '#fff',
     borderRadius: 24,
-    backgroundColor: '#65B5FF',
+    backgroundColor: '#aaea',
   },
   subtitleStyleCss: {
     fontSize: 12,
