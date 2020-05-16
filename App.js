@@ -191,9 +191,9 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     padding: 10,
     borderWidth: 2,
-    borderColor: '#fff',
+    borderColor: '#aefe12',
     borderRadius: 24,
-    backgroundColor: '#aaea',
+    backgroundColor: '#feac12',
   },
   subtitleStyleCss: {
     fontSize: 12,
